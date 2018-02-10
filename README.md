@@ -14,3 +14,5 @@ git add "name of file" (añade a tu stage la modificación del archivo)
 git add -A (añades todos los files con camnbios a tu stage)
 
 git commit -m "descripción de tu commit"
+
+git push (para guardar cambios de tu stage en la nube)
